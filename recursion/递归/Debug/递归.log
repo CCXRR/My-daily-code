@@ -1,5 +1,12 @@
-﻿  Frog.c
+﻿  Fac.c
+  Fib.c
+  Frog.c
+  Hanoi.c
+  MAX.c
+  my_strlen.c
+  print.c
   recursion.c
-D:\编程有关\pen c\递归\递归\recursion.c(82,22): warning C4020: “Frog”: 实参太多
+D:\My-daily-code\My-daily-code\recursion\递归\recursion.c(82,22): warning C4020: “Frog”: 实参太多
   正在生成代码...
-  递归.vcxproj -> D:\编程有关\pen c\递归\Debug\递归.exe
+D:\My-daily-code\My-daily-code\recursion\递归\MAX.c(14): warning C4715: “MAX”: 不是所有的控件路径都返回值
+  递归.vcxproj -> D:\My-daily-code\My-daily-code\recursion\Debug\递归.exe

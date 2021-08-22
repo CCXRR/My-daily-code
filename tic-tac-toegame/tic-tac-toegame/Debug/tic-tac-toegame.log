@@ -1,0 +1,6 @@
+﻿D:\VisualStudioIDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(tic-tac-toegame.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  game.c
+D:\编程有关\pen c\tic-tac-toegame\tic-tac-toegame\game.c(67,6): warning C4101: “a”: 未引用的局部变量
+D:\编程有关\pen c\tic-tac-toegame\tic-tac-toegame\game.c(67,9): warning C4101: “b”: 未引用的局部变量
+D:\编程有关\pen c\tic-tac-toegame\tic-tac-toegame\game.c(67,12): warning C4101: “c”: 未引用的局部变量
+  tic-tac-toegame.vcxproj -> D:\编程有关\pen c\tic-tac-toegame\Debug\tic-tac-toe-game.exe
